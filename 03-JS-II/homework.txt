@@ -1,0 +1,8 @@
+1- For:es un bucle que sirve para que se ejecute una accion, un numero finito de veces.
+
+2- &&: es un operador logico que da como resultador verdadero si al comparar los operandos (condiciones que estan a la derecha y a la izquierda de &&) se cumplen o son verdaderos.
+
+   ||: es un operador logico que da como resultador falso si al comparar los operandos (condiciones que estan a la derecha y a la izquierda de ||) no se cumplen o son falsos.
+   
+   !: niega la condicion a continuacion, ejemplo si(1===1) como resultado da falso.
+	
