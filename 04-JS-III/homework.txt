@@ -1,0 +1,1 @@
+array: es una lista, de elementos. Se puede ver que cada elemento mediante un numero entero, que llamamos indice, empezando desde el 0. 
