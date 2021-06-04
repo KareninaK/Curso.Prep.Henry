@@ -1,5 +1,0 @@
-Objeto: es una coleccion de propiedades, por ejemplo un objeto puede ser un auto
-Propiedade: son las caracteristicas de un objeto por ejemplo las propiedades del objeto auto puede ser la marca, el modelo y color.
-Método: son funciones para poder trabajar con las propiedades del objeto, mmodificicarlas, eliminarlas o a agregar nuevas.
-Bucle `for…in`: se usa para recorrer las propiedades de un objeto.
-Notación de puntos vs notación de corchetes: se utilizan para acceder al valor de las propiedades de un objeto.
