@@ -1,0 +1,1 @@
+ Funciones Callback: se da cuando se pasa una funcion como paramentro a otra funcion.
