@@ -1,0 +1,8 @@
+* Objetos y propiedades: un objeto es un conjunto de caracteristicas o propiedades, por ejemplo, un objeto puede ser una persona, cuyas caracteristicas son su nombrem apellido, dni, color de ojos, etc, 
+un objeto tmb puede ser un auto, cuyas caracteristicas son, la marca, cantidad de puertas, color, modelo, etc
+
+* Métodos: sirven para realizar acciones, por ejemplo, modificar propiedades de un objeto, hacer una operacion matematica, abrir una ventana emergente, etc. 
+	
+* Bucle `for…in`: sirve para recorrer todas las propiedades de un objeto, y así realizar una accion en cada una.
+	
+* Notación de puntos vs notación de corchetes: son las 2 formas en las que se puede acceder a las propiedades de un objeto, para saber que dato contiene, cargar un dato, modificarlo o eliminarlo.
